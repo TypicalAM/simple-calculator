@@ -1,7 +1,7 @@
-# A basic calculator with pizzaz
+# Simple Clean Calculator 
 
-This is a basic calculator made to practice my C++ skills. The UI was built with `raylib` (yes, I know its a game library)
+This is a basic calculator made to practice my C++ skills. The UI was built with `raylib` and it has its own lexer/parser and is able to efficiently compute complex expressions. It also looks quite nice.
 
 <p align="center">
-    <img src="assets/image.png" />
+    <img src="assets/look_original.png" />
 </p>
